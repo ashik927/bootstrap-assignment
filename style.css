@@ -1,0 +1,171 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+    padding:0;
+}
+.container{
+    margin-bottom: 80px;
+}
+.header{
+    background-color: #F0FFF0;
+    height: 574px;
+}
+
+
+.logo{
+    position: absolute;
+width: 198.07px;
+height: 70px;
+left: 10px;
+top: 10px;
+}
+.navbar-nav{
+ 
+    padding: 10px;
+   
+    font-size: 16px;
+    
+   
+}
+.sign-in{
+    background-color:#21B573;;
+    color: #fff !important;
+    border: none;
+    border-radius: 25px;
+    padding: 9px 25px;
+    width:100px;
+    cursor: pointer;
+}
+.sign-in:hover{
+    background-color: #FD511A;
+    width: 120px;
+}
+
+.h-2{
+    color: #FD511A;
+    font-size: 16px;
+}
+.color{
+    color: #21B573;
+}
+
+.button{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #FD511A;
+    width: 200px;
+}
+
+.about1,.about2,.about3,.about4{
+    width: 270px;
+    height: 270px;
+    padding-top: 50px; 
+}
+.about1,.about2,.about3, img{
+    padding-bottom: 20px;
+}
+.about1{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.about2{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.about3{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.about4{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.card-img-top{
+    width: 100%;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.img-fluidd {
+    width: 40px;
+    height: 40px;
+}
+.icon-left .icon p {
+    margin: 0;
+}
+.icon-left p {
+    margin-bottom: 0;
+    padding-left: 10px;
+}
+
+.card-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.icon-left{
+    padding-left: 5px;
+    padding-right: 10px;
+}
+a:hover {
+    color: inherit;
+    text-decoration: none;
+}
+.wrapper{
+    margin-top: 80px;
+}
+.testimonial img{
+    width: 130px;
+    margin-top: 50px;
+}
+.wrap{
+    width: 550px;
+    margin-left: 50px;
+}
+.courses-li{
+    font-size: 22px;
+    font-weight: 700;
+}
+footer{
+    background-color: black;
+    position: relative;
+    
+    height: 369px;
+    left: 0px;
+
+}
+.footer-p{
+    color: white;
+}
+.footer-section ul li{
+    list-style: none;
+    color: white;
+    margin: none;
+}
+.margin{
+    padding-top: 50px;
+}
+
+.bg-color{
+    background-color:  #F0FFF0;;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+color: gray;
+}
